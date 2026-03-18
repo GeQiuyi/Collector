@@ -1,0 +1,16 @@
+.git
+.gitignore
+__pycache__
+*.pyc
+*.pyo
+.env
+.env.*
+*.db
+collector.db
+.DS_Store
+*.md
+!README.md
+deploy-config.json
+.venv
+venv
+node_modules

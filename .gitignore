@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.env.*
+*.db
+collector.db
+.venv/
+venv/
+deploy-config.json
